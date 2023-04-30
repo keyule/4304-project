@@ -3,7 +3,7 @@
 - Student Number: A0211495H E0493826
 
 *View the markdown version for better formatting at:*   
-*https://github.com/keyule/3001-Task4/blob/master/Report/report.md* 
+*https://github.com/keyule/4304-project/blob/main/report.md* 
 
 ## Setting up Shadowd
 
@@ -24,7 +24,7 @@
 
 3. Shadowd should be up now and when we navigate to 127.0.0.1:8080 we can see the login page for shadowd
 
-    >![login](https://github.com/keyule/3001-Task4/blob/master/Report/Screenshots/leader.png?raw=true)
+    >![login](https://github.com/keyule/4304-project/blob/main/Images/login.png?raw=true)
 
 4. Login and create new Profle with `Server ip: *`
 
@@ -73,7 +73,7 @@
 
 5. After this we should be able to see requests come in onto profile 1 on the dashboard for shadowd
 
-    >![login](https://github.com/keyule/3001-Task4/blob/master/Report/Screenshots/leader.png?raw=true)
+    >![login](https://github.com/keyule/4304-project/blob/main/Images/requests.png?raw=true)
 
 
 ## Setting up a php page thats vulnerable to xss
